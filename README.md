@@ -1,5 +1,11 @@
 # B8 Roommates Manager
 
+[![Visibility](https://img.shields.io/badge/visibility-public-2ea44f?style=for-the-badge)](https://github.com/aliheiba93/B8RoommatesManager-Public)
+[![Platform](https://img.shields.io/badge/platform-Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)](https://github.com/aliheiba93/B8RoommatesManager-Public/releases/tag/v1.0.0)
+[![Release](https://img.shields.io/github/v/release/aliheiba93/B8RoommatesManager-Public?style=for-the-badge&label=release)](https://github.com/aliheiba93/B8RoommatesManager-Public/releases)
+[![Developer](https://img.shields.io/badge/developer-Software%20developer%20Ali%20Heiba-6f42c1?style=for-the-badge)](https://github.com/aliheiba93)
+
+
 **مدير عملي لتنظيم الحياة اليومية في السكن المشترك.**
 
 ## فكرة المشروع
@@ -30,6 +36,18 @@
 - الإصدار: `1.0.0`
 - المنصة: Android
 - [تحميل APK](../../B8RoommatesManager-Public/releases/tag/v1.0.0)
+
+## Screenshots
+
+### Project overview
+
+![B8 Roommates Manager overview](./docs/b8-roommates-manager-overview.svg)
+
+### Experience preview
+
+![B8 Roommates Manager experience preview](./docs/b8-roommates-manager-detail.svg)
+
+> هذه الصور معاينات مرئية تعريفية للنسخة العامة، بينما يظل الكود المصدري محفوظًا في مستودع خاص.
 
 ## المطور
 
